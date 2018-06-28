@@ -1,0 +1,16 @@
+body {
+background-color:black;
+font-family: 'Eater', cursive;
+}
+
+.Taco_Mc_Nugget{
+color:red;
+width: 70%;
+margin:0 auto;
+background-color:#FFF16D;
+}
+
+.image_taco {
+display: block;
+margin: auto;
+width: 30%;
